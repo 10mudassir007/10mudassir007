@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm [Mudassir Junejo](https://github.com/10mudassir007/10mudassir007.github.io)
-> Machine Learning Engineer
+Machine Learning Engineer
 
 
 <img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
