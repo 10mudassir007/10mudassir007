@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Mudassir Junejo](https://github.com/10mudassir007/10mudassir007.github.io)
+### Hi there 👋 I'm [Muhammad Mudassir](https://github.com/10mudassir007/10mudassir007.github.io)
 Machine Learning Engineer
 
 
@@ -27,7 +27,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Stats
 
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali)
+[![Muhammad Mudassir GitHub Stats](https://github-readme-stats.vercel.app/api?username=10mudassir007&show_icons=true&count_private=true)](https://github.com/10mudassir007)
 
 ### Github Repos
 
@@ -44,4 +44,4 @@ I have excellent design & coding skills, as well as an ability to convert requir
 </p>
 
 
-⭐️ From [@anandmainali](https://github.com/anandmainali)
+⭐️ From [@anandmainali](https://github.com/10mudassir007)
