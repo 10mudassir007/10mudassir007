@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Anand K. Mainali](https://anandmainali.com.np)
+### Hi there 👋 I'm [Mudassir Juneji](https://github.com/10mudassir007/10mudassir007.github.io)
 > Software Engineer at [SoftNEP](https://softnep.com)
 
 
