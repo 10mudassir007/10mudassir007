@@ -14,7 +14,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 </p>
 </div>
 
-### Programming Languages 🌐
+### Programming Languages and Frameworks🌐
 | [<img src="https://static-00.iconduck.com/assets.00/python-icon-512x509-pyuo2h5v.png" alt="Python" width="36">](https://www.python.org/) |  [<img src="https://vectorseek.com/wp-content/uploads/2023/02/Scikit-learn-Logo-Vector.jpg" alt="Scikit-learn" width="38">](https://scikit-learn.org/stable/) | [<img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-955x1024-hd4xzbqj.png" alt="Tensorflow" width="36">](https://www.tensorflow.org/) |  [<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png" alt="LangChain" width="36">](https://python.langchain.com/docs/get_started/introduction)| [<img src="https://miro.medium.com/v2/resize:fit:720/0*2LQ7VkdK9d2WaPVJ.png" alt="XgBoost" width="70">](https://xgboost.readthedocs.io/)  | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqLTY8HDdS9sbvXV910Gn0cI_iqNn5G19Nf68-p59kWw&s" alt="Keras" width="36">]([https://keras.io/])  |
 |---|---|---|---|---|---|
 
