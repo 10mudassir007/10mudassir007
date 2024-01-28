@@ -47,7 +47,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 
 [<img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png" alt="LinkedIN" width="50">](https://www.linkedin.com/in/mudassir-junejo-52784a269/)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="Gmail" width="50">](mailto:muddassir032@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn-icons-png.flaticon.com/512/2626/2626299.png" alt="StackOverflow" width="50">](https://stackoverflow.com/users/23309097/mudassir-junejo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle" width="50">](https://www.kaggle.com/staniska)
