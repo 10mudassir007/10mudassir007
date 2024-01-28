@@ -15,7 +15,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 </div>
 
 ### Programming Languages and Frameworks🌐
-| [<img src="https://static-00.iconduck.com/assets.00/python-icon-512x509-pyuo2h5v.png" alt="Python" width="36">](https://www.python.org/) |  [<img src="https://vectorseek.com/wp-content/uploads/2023/02/Scikit-learn-Logo-Vector.jpg" alt="Scikit-learn" width="38">](https://scikit-learn.org/stable/) | [<img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-955x1024-hd4xzbqj.png" alt="Tensorflow" width="36">](https://www.tensorflow.org/) |  [<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png" alt="LangChain" width="36">](https://python.langchain.com/docs/get_started/introduction)| [<img src="https://miro.medium.com/v2/resize:fit:720/0*2LQ7VkdK9d2WaPVJ.png" alt="XgBoost" width="70">](https://xgboost.readthedocs.io/)  | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqLTY8HDdS9sbvXV910Gn0cI_iqNn5G19Nf68-p59kWw&s" alt="Keras" width="36">]([https://keras.io/])  |
+| [<img src="https://static-00.iconduck.com/assets.00/python-icon-512x509-pyuo2h5v.png" alt="Python" width="36">](https://www.python.org/) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" width="38">](https://scikit-learn.org/stable/) | [<img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-955x1024-hd4xzbqj.png" alt="Tensorflow" width="36">](https://www.tensorflow.org/) |  [<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png" alt="LangChain" width="36">](https://python.langchain.com/docs/get_started/introduction)| [<img src="https://www.intel.com/content/dam/www/central-libraries/us/en/images/2022-11/xgboost-logo-rwd.png.rendition.intel.web.480.360.png" alt="XgBoost" width="50">](https://xgboost.readthedocs.io/)  | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqLTY8HDdS9sbvXV910Gn0cI_iqNn5G19Nf68-p59kWw&s" alt="Keras" width="36">]([https://keras.io/])  |
 |---|---|---|---|---|---|
 
 #
@@ -28,29 +28,32 @@ I have excellent design & coding skills, as well as an ability to convert requir
 #
 ***
 #
-### Github Stats
+### Github Stats 📈
 
 [![Mudassir Junejo GitHub Stats](https://github-readme-stats.vercel.app/api?username=10mudassir007&show_icons=true&count_private=false)](https://github.com/10mudassir007)
 #
 ***
 #
-### Github Repos
+### Github Repos 💼
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=House-Price-Predictor-Using-Linear-Regression&show_owner=false)](https://github.com/10mudassir007/House-Price-Predictor-Using-Linear-Regression)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=CHATBOT&show_owner=false)](https://github.com/10mudassir007/CHATBOT)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=House-Price-Predictor-Using-Linear-Regression&show_owner=false)](https://github.com/10mudassir007/House-Price-Predictor-Using-Linear-Regression)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=CHATBOT&show_owner=false)](https://github.com/10mudassir007/CHATBOT)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=Sentiment-Analysis&show_owner=false)](https://github.com/10mudassir007/Sentiment-Analysis)
 #
 ***
 #
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Connect with Me 🤝 </h3>
 
-<a href="https://www.linkedin.com/in/mudassir-junejo-52784a269/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@10mudassir007-blue?style=flat&logo=linkedin"></a>  
 
-<a href="mailto:muddassir032@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-muddassir032@gmail.com-blue?style=flat&logo=gmail"></a>    
 
-<a href="https://www.kaggle.com/staniska"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Mudassir%20Junejo-blue?style=flat&logo=kaggle"></a>
+[<img src="https://assets.stickpng.com/images/58e91afdeb97430e81906504.png" alt="LinkedIN" width="50">](https://www.linkedin.com/in/mudassir-junejo-52784a269/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="Gmail" width="50">](mailto:muddassir032@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/2626/2626299.png" alt="StackOverflow" width="50">](https://stackoverflow.com/users/23309097/mudassir-junejo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle" width="50">](https://www.kaggle.com/staniska)
 
-<a href="https://stackoverflow.com/users/23309097/mudassir-junejo"><img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-Mudassir%20Junejo-blue?style=flat&logo=stackoverflow"></a>
+
+
 </p>
 
 
