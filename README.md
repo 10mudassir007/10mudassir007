@@ -36,7 +36,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 #
 ### Github Repos 💼
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=House-Price-Predictor-Using-Linear-Regression&show_owner=false)](https://github.com/10mudassir007/House-Price-Predictor-Using-Linear-Regression)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=Multiple-Domain-Prices-Estimator&show_owner=false)](https://github.com/10mudassir007/Multiple-Domain-Prices-Estimator)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=CHATBOT&show_owner=false)](https://github.com/10mudassir007/CHATBOT)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=Sentiment-Analysis&show_owner=false)](https://github.com/10mudassir007/Sentiment-Analysis)
 #
