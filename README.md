@@ -35,7 +35,7 @@ With a strong grounding in AI and ML, I bring two years of freelance experience,
 #
 ### Github Repos 💼
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=Multiple-Domain-Prices-Estimator&show_owner=true))](https://github.com/10mudassir007/Multiple-Domain-Prices-Estimator)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=Multiple-Domain-Prices-Estimator&show_owner=false&theme=codeSTACKr))](https://github.com/10mudassir007/Multiple-Domain-Prices-Estimator)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=CHATBOT&show_owner=false&theme=codeSTACKr)](https://github.com/10mudassir007/CHATBOT)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=Sentiment-Analysis&show_owner=false&theme=codeSTACKr)](https://github.com/10mudassir007/Sentiment-Analysis)
 #
