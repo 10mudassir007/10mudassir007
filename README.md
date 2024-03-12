@@ -1,7 +1,6 @@
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F76722&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mudassir+Junejo!;" />
+</h1>
 
 ### Hi there 👋 I'm [Mudassir Junejo](https://www.linkedin.com/in/mudassir-junejo-52784a269/)
 ### Machine Learning Engineer
