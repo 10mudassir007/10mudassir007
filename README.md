@@ -33,8 +33,6 @@ With a strong grounding in AI and ML, I bring two years of freelance experience,
 [![Mudassir Junejo GitHub Stats](https://github-readme-stats.vercel.app/api?username=10mudassir007&show_icons=true&count_private=true&theme=codeSTACKr)](https://github.com/10mudassir007)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=10mudassir007&theme=codeSTACKr&hide_border=true)
-
-
 #
 ***
 #
