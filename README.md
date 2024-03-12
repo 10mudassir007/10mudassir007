@@ -28,7 +28,7 @@ With a strong grounding in AI and ML, I bring two years of freelance experience,
 ***
 #
 ### Github Stats 📈
-[![](https://visitcount.itsvg.in/api?id=10mudassir007&label=Profile%20Views&color=7&icon=6&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=10mudassir007&label=Profile%20Views&color=7&icon=6&pretty=true)](https://github.com/10mudassir007)
 
 [![Mudassir Junejo GitHub Stats](https://github-readme-stats.vercel.app/api?username=10mudassir007&show_icons=true&count_private=true&theme=codeSTACKr)](https://github.com/10mudassir007)
 
