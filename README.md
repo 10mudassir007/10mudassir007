@@ -47,7 +47,7 @@ With a solid foundation in AI and ML, I offer six months+ of experience excellin
 
 
 
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="LinkedIN" width="50">](https://www.linkedin.com/in/mudassir-junejo-52784a269/)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="LinkedIN" width="50">](https://www.linkedin.com/in/mudassir-junejo/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="Gmail" width="50">](mailto:muddassir032@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn-icons-png.flaticon.com/512/2626/2626299.png" alt="StackOverflow" width="50">](https://stackoverflow.com/users/23309097/mudassir-junejo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
