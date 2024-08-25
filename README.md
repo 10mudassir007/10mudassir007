@@ -38,8 +38,8 @@ With a solid foundation in AI and ML, I offer six months+ of experience excellin
 ### Github Repos 💼
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=Multiple-Domain-Prices-Estimator&show_owner=false&theme=codeSTACKr))](https://github.com/10mudassir007/Multiple-Domain-Prices-Estimator)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=CHATBOT&show_owner=false&theme=codeSTACKr)](https://github.com/10mudassir007/CHATBOT)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=Sentiment-Analysis&show_owner=false&theme=codeSTACKr)](https://github.com/10mudassir007/Sentiment-Analysis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=Emotion-Recognition-from-Text&show_owner=false&theme=codeSTACKr)](https://github.com/10mudassir007/Emotion-Recognition-from-Text)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=Face-Expression-Recognizer&show_owner=false&theme=codeSTACKr)](https://github.com/10mudassir007/Face-Expression-Recognizer)
 #
 ***
 #
@@ -47,7 +47,7 @@ With a solid foundation in AI and ML, I offer six months+ of experience excellin
 
 
 
-[<img src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" alt="LinkedIN" width="50">](https://www.linkedin.com/in/mudassir-junejo-52784a269/)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="LinkedIN" width="50">](https://www.linkedin.com/in/mudassir-junejo-52784a269/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="Gmail" width="50">](mailto:muddassir032@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn-icons-png.flaticon.com/512/2626/2626299.png" alt="StackOverflow" width="50">](https://stackoverflow.com/users/23309097/mudassir-junejo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
