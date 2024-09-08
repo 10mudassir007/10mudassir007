@@ -8,12 +8,13 @@
 
 <div>
  <p>
-With a solid foundation in AI and ML, I offer six months+ of experience excelling in Python, ML, DL, and demonstrating expertise in NLP. My dedication to staying abreast of advancements is evident in a track record of impactful problem-solving and solution delivery within the dynamic AI and ML landscape.
+With a solid foundation in AI and ML, I offer 1 year+ of experience excelling in Python, ML, DL, and demonstrating expertise in NLP. My dedication to staying abreast of advancements is evident in a track record of impactful problem-solving and solution delivery within the dynamic AI and ML landscape.
 </p>
 </div>
 
 ### Programming Languages and Frameworks🌐
-| [<img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python" width="36">](https://www.python.org/) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" width="38">](https://scikit-learn.org/stable/) | [<img src="https://seeklogo.com/images/T/tensorflow-logo-C69AEAC9D0-seeklogo.com.png" alt="Tensorflow" width="36">](https://www.tensorflow.org/) |  [<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png" alt="LangChain" width="36">](https://python.langchain.com/docs/get_started/introduction)| [<img src="https://www.intel.com/content/dam/www/central-libraries/us/en/images/2022-11/xgboost-logo-rwd.png.rendition.intel.web.480.360.png" alt="XgBoost" width="50">](https://xgboost.readthedocs.io/)  | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqLTY8HDdS9sbvXV910Gn0cI_iqNn5G19Nf68-p59kWw&s" alt="Keras" width="36">](https://keras.io/)  |
+
+| [![Python](https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark)](https://www.python.org/) | [![Scikit-Learn](https://go-skill-icons.vercel.app/api/icons?i=scikitlearn&theme=dark)](https://scikit-learn.org/stable/) | [![Tensorflow](https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark)](https://www.tensorflow.org/) |  [![LangChain](https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark)](https://python.langchain.com/docs/get_started/introduction) | [![OpenCV](https://go-skill-icons.vercel.app/api/icons?i=opencv&theme=dark)](https://opencv.org/) | [![Keras](https://simpleskill.icons.workers.dev/svg?i=keras)](https://keras.io/)  |
 |---|---|---|---|---|---|
 
 #
@@ -21,17 +22,19 @@ With a solid foundation in AI and ML, I offer six months+ of experience excellin
 # 
 ### Tools 🛠️
 
-| [<img src="https://banner2.cleanpng.com/20180809/hvf/kisspng-flask-by-example-web-framework-python-bottle-sebastian-estenssoro-5b6c0aa33b3b57.9170119715338072672426.jpg" alt="Flask" width="36">](https://flask.palletsprojects.com/) |  [<img src="https://gitlab.com/uploads/-/system/project/avatar/37467835/fastapi.png" alt="FastAPI" width="36">](https://fastapi.tiangolo.com/) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" width="36">](https://jupyter.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="36">](https://git-scm.com/) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/200px-Pytest_logo.svg.png" alt="Pytest" width="36">](https://pytest.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="36">](https://code.visualstudio.com/)
+| [![Flask](https://go-skill-icons.vercel.app/api/icons?i=flask&theme=dark)](https://flask.palletsprojects.com/) |  [![FastAPI](https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark)](https://fastapi.tiangolo.com/) |  [![Jupyter](https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark)](https://jupyter.org/) | [![GIT](https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark)](https://git-scm.com/) |  [![Streamlit](https://go-skill-icons.vercel.app/api/icons?i=streamlit&theme=dark)](https://streamlit.io/) | [![VS CODE](https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark)](https://code.visualstudio.com/)
 |---|---|---|---|---|---|
 #
 ***
 #
 ### Github Stats 📈
-[![](https://visitcount.itsvg.in/api?id=10mudassir007&label=Profile%20Views&color=7&icon=6&pretty=true&)](https://github.com/10mudassir007)
+[![](https://komarev.com/ghpvc/?username=10mudassir007&label=Profile%20views&color=fa6230&style=for-the-badge&logo=star&base=401)](https://github.com/10mudassir007)
 
 [![Mudassir Junejo GitHub Stats](https://github-readme-stats.vercel.app/api?username=10mudassir007&include_all_commits=true&hide=issues&rank_icon=github&card_width=490px&show_icons=true&count_private=true&theme=codeSTACKr)](https://github.com/10mudassir007)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=10mudassir007&theme=codeSTACKr&card_width=490px&hide_border=true)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=10mudassir007&bg_color=08121b&&color=fa6230&line=fa6230&point=fa6230&area=false&hide_border=true)
 #
 ***
 #
@@ -55,7 +58,8 @@ With a solid foundation in AI and ML, I offer six months+ of experience excellin
 
 
 
-</p>
 
 
 ⭐️ From [@10mudassir007](https://github.com/10mudassir007)
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer)
