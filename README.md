@@ -41,7 +41,7 @@ With a solid foundation in AI and ML, I offer 1 year+ of experience excelling in
 ### Github Repos 💼
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=Multiple-Domain-Prices-Estimator&show_owner=false&theme=codeSTACKr))](https://github.com/10mudassir007/Multiple-Domain-Prices-Estimator)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=Emotion-Recognition-from-Text&show_owner=false&theme=codeSTACKr)](https://github.com/10mudassir007/Emotion-Recognition-from-Text)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=Plant-Disease-Detection&show_owner=false&theme=codeSTACKr)](https://github.com/10mudassir007/Plant-Disease-Detection)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=Face-Expression-Recognizer&show_owner=false&theme=codeSTACKr)](https://github.com/10mudassir007/Face-Expression-Recognizer)
 #
 ***
