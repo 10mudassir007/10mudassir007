@@ -8,7 +8,7 @@
 
 <div>
  <p>
-With a solid foundation in AI and ML, I offer 1 year+ of experience excelling in Python, ML, DL, and demonstrating expertise in NLP. My dedication to staying abreast of advancements is evident in a track record of impactful problem-solving and solution delivery within the dynamic AI and ML landscape.
+With a solid foundation in AI and ML, I offer 2 year+ of experience excelling in Python, ML, DL, and demonstrating expertise in NLP. My dedication to staying abreast of advancements is evident in a track record of impactful problem-solving and solution delivery within the dynamic AI and ML landscape.
 </p>
 </div>
 
