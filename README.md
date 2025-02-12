@@ -8,13 +8,13 @@
 
 <div>
  <p>
-With a solid foundation in AI and ML, I offer 2 year+ of experience excelling in Python, ML, DL, and demonstrating expertise in NLP. My dedication to staying abreast of advancements is evident in a track record of impactful problem-solving and solution delivery within the dynamic AI and ML landscape.
+I am an AI and ML professional with 2+ years of experience, excelling in Python, ML, and DL, with demonstrated expertise in NLP, Computer Vision, LLMs, RAG, and Agentic Systems. Passionate about staying at the forefront of advancements, I have a proven track record of impactful problem-solving and delivering innovative solutions within the dynamic AI and ML landscape.
 </p>
 </div>
 
 ### Programming Languages and Frameworks🌐
 
-| [![Python](https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark)](https://www.python.org/) | [![Scikit-Learn](https://go-skill-icons.vercel.app/api/icons?i=scikitlearn&theme=dark)](https://scikit-learn.org/stable/) | [![Tensorflow](https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark)](https://www.tensorflow.org/) |  [![LangChain](https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark)](https://python.langchain.com/docs/get_started/introduction) | [![OpenCV](https://go-skill-icons.vercel.app/api/icons?i=opencv&theme=dark)](https://opencv.org/) | [![Keras](https://simpleskill.icons.workers.dev/svg?i=keras)](https://keras.io/)  |
+| [![Python](https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark)](https://www.python.org/) | [![Scikit-Learn](https://go-skill-icons.vercel.app/api/icons?i=scikitlearn&theme=dark)](https://scikit-learn.org/stable/) | [![Tensorflow](https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark)](https://www.tensorflow.org/) |  [![Tensorflow](https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark)](https://www.tensorflow.org/) | [![LangChain](https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark)](https://python.langchain.com/docs/get_started/introduction) | [![OpenCV](https://go-skill-icons.vercel.app/api/icons?i=opencv&theme=dark)](https://opencv.org/) |
 |---|---|---|---|---|---|
 
 #
@@ -40,9 +40,9 @@ With a solid foundation in AI and ML, I offer 2 year+ of experience excelling in
 #
 ### Github Repos 💼
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=Multiple-Domain-Prices-Estimator&show_owner=false&theme=codeSTACKr))](https://github.com/10mudassir007/Multiple-Domain-Prices-Estimator)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=Multiple-RAG-Systems&show_owner=false&theme=codeSTACKr))](https://github.com/10mudassir007/Multiple-RAG-Systems)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=Plant-Disease-Detection&show_owner=false&theme=codeSTACKr)](https://github.com/10mudassir007/Plant-Disease-Detection)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=Face-Expression-Recognizer&show_owner=false&theme=codeSTACKr)](https://github.com/10mudassir007/Face-Expression-Recognizer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=10mudassir007&repo=Agentic-Systems&show_owner=false&theme=codeSTACKr)](https://github.com/10mudassir007/Agentic-Systems)
 #
 ***
 #
