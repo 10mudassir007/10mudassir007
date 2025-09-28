@@ -8,7 +8,7 @@
 
 <div>
  <p>
-I am an AI and ML professional with 2+ years of experience, excelling in Python, ML, and DL, with demonstrated expertise in NLP, Computer Vision, LLMs, RAG, and Agentic Systems. Passionate about staying at the forefront of advancements, I have a proven track record of impactful problem-solving and delivering innovative solutions within the dynamic AI and ML landscape.
+I am an AI and ML professional with a strong focus on Agentic AI systems. Currently working as an AI Intern at Intrapreneur, I build intelligent, autonomous workflows that push the boundaries of practical AI applications. Passionate about staying at the forefront of innovation, I have a proven track record of solving complex problems and delivering impactful, future-ready AI solutions.
 </p>
 </div>
 
