@@ -8,7 +8,7 @@
 
 <div>
  <p>
-I am an AI and ML professional with a strong focus on Agentic AI systems. Currently working as an AI Intern at Intrapreneur, I build intelligent, autonomous workflows that push the boundaries of practical AI applications. Passionate about staying at the forefront of innovation, I have a proven track record of solving complex problems and delivering impactful, future-ready AI solutions.
+I am an AI and ML professional with a strong focus on Agentic AI systems. Currently working as an Jr. AI Software Engineer at Intrapreneur, I build intelligent, autonomous workflows that push the boundaries of practical AI applications. Passionate about staying at the forefront of innovation, I have a proven track record of solving complex problems and delivering impactful, future-ready AI solutions.
 </p>
 </div>
 
@@ -31,8 +31,6 @@ I am an AI and ML professional with a strong focus on Agentic AI systems. Curren
 [![Views](https://komarev.com/ghpvc/?username=10mudassir007&label=Profile%20views&color=fa6230&style=for-the-badge&logo=star&base=401)](https://github.com/10mudassir007)
 
 [![Mudassir Junejo GitHub Stats](https://github-readme-stats.vercel.app/api?username=10mudassir007&include_all_commits=true&hide=issues&rank_icon=github&card_width=490px&show_icons=true&count_private=true&theme=codeSTACKr)](https://github.com/10mudassir007)
-
-[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=10mudassir007&theme=codeSTACKr&card_width=490px&hide_border=true)](https://github.com/10mudassir007)
 
 [![History](https://github-readme-activity-graph.vercel.app/graph?username=10mudassir007&bg_color=08121b&&color=fa6230&line=fa6230&point=fa6230&area=false&hide_border=true)](https://github.com/10mudassir007)
 #
