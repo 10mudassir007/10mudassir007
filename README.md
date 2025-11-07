@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F76722&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mudassir+Junejo!;" />
 </h1>
 
-### Hi there 👋 I'm [Mudassir Junejo](https://mudassir-junejo-portfolio.vercel.app/)
+### Hi there 👋 I'm [Mudassir Junejo](https://mudassir-junejo.vercel.app/)
 ### Machine Learning Engineer
 
 
