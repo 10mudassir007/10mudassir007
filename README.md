@@ -14,7 +14,7 @@ I am an AI and ML professional with a strong focus on Agentic AI systems. Curren
 
 ### Programming Languages and Frameworks🌐
 
-| [![Python](https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark)](https://www.python.org/) | [![Scikit-Learn](https://go-skill-icons.vercel.app/api/icons?i=scikitlearn&theme=dark)](https://scikit-learn.org/stable/) | [![Tensorflow](https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark)](https://www.tensorflow.org/) |  [![Tensorflow](https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark)](https://www.tensorflow.org/) | [![LangChain](https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark)](https://python.langchain.com/docs/get_started/introduction) | [![CrewAI](https://go-skill-icons.vercel.app/api/icons?i=crewai&theme=dark)](https://docs.crewai.com/introduction) |
+| [![Python](https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark)](https://www.python.org/) | [![n8n](https://go-skill-icons.vercel.app/api/icons?i=n8n&theme=dark)](https://n8n.io/) | [![Tensorflow](https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark)](https://www.tensorflow.org/) |  [![Tensorflow](https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark)](https://www.tensorflow.org/) | [![LangChain](https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark)](https://python.langchain.com/docs/get_started/introduction) | [![CrewAI](https://go-skill-icons.vercel.app/api/icons?i=crewai&theme=dark)](https://docs.crewai.com/introduction) |
 |---|---|---|---|---|---|
 
 #
@@ -22,7 +22,7 @@ I am an AI and ML professional with a strong focus on Agentic AI systems. Curren
 # 
 ### Tools 🛠️
 
-| [![Groq](https://go-skill-icons.vercel.app/api/icons?i=groq&theme=dark)](https://groq.com/) |  [![FastAPI](https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark)](https://fastapi.tiangolo.com/) |  [![Jupyter](https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark)](https://jupyter.org/) | [![GIT](https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark)](https://git-scm.com/) |  [![Streamlit](https://go-skill-icons.vercel.app/api/icons?i=streamlit&theme=dark)](https://streamlit.io/) | [![VS CODE](https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark)](https://code.visualstudio.com/)
+| [![Groq](https://go-skill-icons.vercel.app/api/icons?i=groq&theme=dark)](https://groq.com/) |  [![FastAPI](https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark)](https://fastapi.tiangolo.com/) |  [![Colab](https://go-skill-icons.vercel.app/api/icons?i=googlecolab&theme=dark)](https://colab.research.google.com/) | [![GIT](https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark)](https://git-scm.com/) |  [![Streamlit](https://go-skill-icons.vercel.app/api/icons?i=mlflow&theme=dark)](https://streamlit.io/) | [![VS CODE](https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark)](https://code.visualstudio.com/)
 |---|---|---|---|---|---|
 #
 ***
