@@ -22,7 +22,7 @@ I am an AI and ML professional with a strong focus on Agentic AI systems. Curren
 # 
 ### Tools 🛠️
 
-| [![Groq](https://go-skill-icons.vercel.app/api/icons?i=groq&theme=dark)](https://groq.com/) |  [![FastAPI](https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark)](https://fastapi.tiangolo.com/) |  [![Colab](https://go-skill-icons.vercel.app/api/icons?i=googlecolab&theme=dark)](https://colab.research.google.com/) | [![GIT](https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark)](https://git-scm.com/) |  [![Streamlit](https://go-skill-icons.vercel.app/api/icons?i=mlflow&theme=dark)](https://streamlit.io/) | [![VS CODE](https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark)](https://code.visualstudio.com/)
+| [![Groq](https://go-skill-icons.vercel.app/api/icons?i=groq&theme=dark)](https://groq.com/) |  [![FastAPI](https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark)](https://fastapi.tiangolo.com/) |  [![Colab](https://go-skill-icons.vercel.app/api/icons?i=googlecolab&theme=dark)](https://colab.research.google.com/) | [![GIT](https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark)](https://git-scm.com/) |  [![Streamlit](https://go-skill-icons.vercel.app/api/icons?i=mlflow&theme=dark)](https://mlflow.org/) | [![VS CODE](https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark)](https://code.visualstudio.com/)
 |---|---|---|---|---|---|
 #
 ***
