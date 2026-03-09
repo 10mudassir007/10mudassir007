@@ -13,7 +13,7 @@
 
 <h3> 🤝🏻 Connect with Me 🤝 </h3>
 
-| [![LinkedIn](https://skills.syvixor.com/api/icons?perline=6&i=linkedin)](https://www.linkedin.com/in/mudassir-junejo/) | [![Gmail](https://skills.syvixor.com/api/icons?perline=15&i=gmail)](mailto:muddassir032@gmail.com) | [<img src="https://mudassir-junejo.vercel.app/favicon.png" width="32" height="32" alt="Portfolio" style="border-radius:10px; background:#1d1d1d; padding:8px;"/>](https://mudassir-junejo.vercel.app) |
+| [![LinkedIn](https://skills.syvixor.com/api/icons?perline=6&i=linkedin)](https://www.linkedin.com/in/mudassir-junejo/) | [![Gmail](https://skills.syvixor.com/api/icons?perline=15&i=gmail)](mailto:muddassir032@gmail.com) | [<img src="https://mudassir-junejo.vercel.app/favicon.png" width="48" height="48" alt="Portfolio" style="border-radius:10px; background:#1d1d1d; padding:8px;"/>](https://mudassir-junejo.vercel.app) |
 |---|---|---|
 
 ### 🛠️ Tech Stack
