@@ -6,22 +6,23 @@
 
 ### About Me
 
-- 🤖 AI Software Engineer at **Intrapreneur**
+- 🤖 Machine Learning Engineer at **Intrapreneur**
 - 🧠 Specializing in **Generative AI, Agentic AI, LLMs & Deep Learning**
 - 🔧 Building RAG pipelines, fine-tuned models & autonomous multi-agent workflows with LangChain and CrewAI
 - 🚀 Check out my latest project: **[Sentinel-AI](https://sentinel-ai-web.vercel.app/)** — Automated Video Incident Detection
 
 <h3> 🤝🏻 Connect with Me 🤝 </h3>
 
-| [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/mudassir-junejo/) | [![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark)](mailto:muddassir032@gmail.com) | [<img src="https://mudassir-junejo.vercel.app/favicon.png" width="48" height="48" alt="Portfolio" style="border-radius:10px; background:#1d1d1d; padding:8px;"/>](https://mudassir-junejo.vercel.app) |
+| [![LinkedIn](https://skills.syvixor.com/api/icons?perline=6&i=linkedin)](https://www.linkedin.com/in/mudassir-junejo/) | [![Gmail](https://skills.syvixor.com/api/icons?perline=15&i=gmail)](mailto:muddassir032@gmail.com) | [<img src="https://mudassir-junejo.vercel.app/favicon.png" width="32" height="32" alt="Portfolio" style="border-radius:10px; background:#1d1d1d; padding:8px;"/>](https://mudassir-junejo.vercel.app) |
 |---|---|---|
 
 ### 🛠️ Tech Stack
 
-| [![Python](https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark)](https://www.python.org/) | [![TensorFlow](https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark)](https://www.tensorflow.org/) | [![PyTorch](https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark)](https://pytorch.org/) | [![LangChain](https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark)](https://python.langchain.com/) | [![HuggingFace](https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=dark)](https://huggingface.co/) |  [![CrewAI](https://go-skill-icons.vercel.app/api/icons?i=crewai&theme=dark)](https://docs.crewai.com/) | [![FastAPI](https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark)](https://fastapi.tiangolo.com/) | [![MLflow](https://go-skill-icons.vercel.app/api/icons?i=mlflow&theme=dark)](https://mlflow.org/) | [![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark)](https://git-scm.com/) | [![Git](https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark)](https://git-scm.com/) |
-|---|---|---|---|---|---|---|---|---|---|
-
-***
+<p align="left">
+  <a href="https://github.com/10mudassir007">
+    <img src="https://skills.syvixor.com/api/icons?perline=6&i=python,tensorflow,pytorch,langchain,huggingface,n8n,fastapi,docker,mlflow,git,supabase,claudeai" width="400"/>
+  </a>
+</p>
 
 ### Github Stats 📈
 
