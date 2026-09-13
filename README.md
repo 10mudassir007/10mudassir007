@@ -6,9 +6,9 @@
 
 ### About Me
 
-- 🤖 Machine Learning Engineer at **Intrapreneur**
+- 🤖 Software Engineer at **Intrapreneur**
 - 🧠 Specializing in **Generative AI, Agentic AI, LLMs & Deep Learning**
-- 🔧 Building RAG pipelines, fine-tuned models & autonomous multi-agent workflows with LangChain and CrewAI
+- 🔧 Building RAG pipelines, fine-tuned models & autonomous multi-agent workflows with LangChain and LangGraph
 - 🚀 Check out my latest project: **[Sentinel-AI](https://sentinel-ai-web.vercel.app/)** — Automated Video Incident Detection
 
 <h3> 🤝🏻 Connect with Me 🤝 </h3>
