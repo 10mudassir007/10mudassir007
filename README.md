@@ -24,6 +24,8 @@
 | Project | What it does |
 |---|---|
 | [**Sentinel-AI**](https://sentinel-ai-web.vercel.app/) | Automated video incident detection |
+| **UNSETTLED** | Payments investigation platform: transaction tracing and resolution with LangGraph agents |
+| **Knowledge Dungeon** | First-person 3D dungeon crawler where you answer quiz questions to advance |
 
 <!-- Add more rows: | [**Name**](link) | One-line description | -->
 
