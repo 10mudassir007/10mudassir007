@@ -45,15 +45,6 @@
 
 <img src="https://skills.syvixor.com/api/icons?i=fastapi,docker,supabase,git" alt="FastAPI, Docker, Supabase, Git" />
 
-## 📈 GitHub Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=10mudassir007&theme=dark&hide_border=true">
-    <img alt="10mudassir007's GitHub streak" src="https://streak-stats.demolab.com/?user=10mudassir007&theme=default&hide_border=true" />
-  </picture>
-</div>
-
 ## 🎮 Contribution Arcade
 
 <div align="center">
